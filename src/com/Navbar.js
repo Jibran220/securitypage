@@ -7,16 +7,16 @@ export const Navbar = () => {
       <meta charSet="utf-8" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
       <meta name="author" content="HubSpot, Inc." />
-      <meta name="description" content />
+      <meta name="description" />
       <meta name="generator" content="HubSpot" />
       <title>HubSpot Privacy Policy</title>
       <link
         rel="shortcut icon"
-        href="https://53.fs1.hubspotusercontent-na1.net/hubfs/53/sprocket-web-color-2.png"
+        to="https://53.fs1.hubspotusercontent-na1.net/hubfs/53/sprocket-web-color-2.png"
       />
-      <meta property="og:description" content />
+      <meta property="og:description" ontent />
       <meta property="og:title" content="HubSpot Privacy Policy" />
-      <meta name="twitter:description" content />
+      <meta name="twitter:description" />
       <meta name="twitter:title" content="HubSpot Privacy Policy" />
       <style
         dangerouslySetInnerHTML={{
@@ -26,15 +26,15 @@ export const Navbar = () => {
       />
       <link
         rel="stylesheet"
-        href="https://www.hubspot.com/wt-assets/static-files/2949/core-nav/styles.css"
+        to="https://www.hubspot.com/wt-assets/static-files/2949/core-nav/styles.css"
       />
-      <link rel="canonical" href="https://legal.hubspot.com/privacy-policy" />
+      <link rel="canonical" to="https://legal.hubspot.com/privacy-policy" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       {/* Meta */}
       <meta name="theme-color" content="#f7751f" />
       {/* BUILD VERSION: 2949 */}
       <link
-        href="//www.hubspot.com/wt-assets/static-files/2949/legal/styles.css"
+        to="//www.hubspot.com/wt-assets/static-files/2949/legal/styles.css"
         rel="stylesheet"
         type="text/css"
       />
@@ -49,7 +49,7 @@ export const Navbar = () => {
       <meta httpEquiv="content-language" content="en" />
       <link
         rel="stylesheet"
-        href="//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1660245939296/hubspot/hubspot_default/shared/responsive/layout.min.css"
+        to="//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1660245939296/hubspot/hubspot_default/shared/responsive/layout.min.css"
       />
       {/* ss_approved */}
       <style
@@ -222,7 +222,7 @@ export const Navbar = () => {
                               />
                               <g>
                                 <mask id="bb" fill="#fff">
-                                  <use xlinkHref="#ba" />
+                                  <use xlinkto="#ba" />
                                 </mask>
                                 <path
                                   d="M12.5 21.048A8.548 8.548 0 013.952 12.5a8.548 8.548 0 1117.096 0 8.548 8.548 0 01-8.548 8.548M12.5 0C5.597 0 0 5.596 0 12.5 0 19.403 5.597 25 12.5 25S25 19.403 25 12.5C25 5.596 19.403 0 12.5 0"
@@ -243,7 +243,7 @@ export const Navbar = () => {
                             <g fill="none" fillRule="evenodd">
                               <g>
                                 <mask id="cb" fill="#fff">
-                                  <use xlinkHref="#ca" />
+                                  <use xlinkto="#ca" />
                                 </mask>
                                 <path
                                   d="M20.393 15.763c-1.32 3.19-4.51 5.413-8.207 5.28-4.246-.153-7.843-3.563-8.202-7.797a8.544 8.544 0 016.363-9.01.882.882 0 00.205-.08l3.939-2.171c.848-.47.602-1.744-.36-1.875a12.169 12.169 0 00-3.1-.021C4.866.835.056 6.177 0 12.387-.061 19.343 5.559 25 12.5 25c6.084 0 11.142-4.348 12.258-10.106.164-.844-.751-1.49-1.493-1.055l-2.46 1.44a.993.993 0 00-.412.484"
@@ -252,7 +252,7 @@ export const Navbar = () => {
                               </g>
                               <g transform="translate(12)">
                                 <mask id="cd" fill="#fff">
-                                  <use xlinkHref="#cc" />
+                                  <use xlinkto="#cc" />
                                 </mask>
                                 <path
                                   d="M11.963 9.291l-1.7-.508L12.696.636c.127-.424-.309-.786-.69-.574L1.06 6.158c-.382.213-.328.787.085.91l1.701.51-2.436 8.146c-.127.424.31.786.691.573l10.946-6.095c.382-.213.328-.787-.085-.91"
@@ -273,7 +273,7 @@ export const Navbar = () => {
                             <g fill="none" fillRule="evenodd">
                               <g transform="translate(0 -.981)">
                                 <mask id="db" fill="#fff">
-                                  <use xlinkHref="#da" />
+                                  <use xlinkto="#da" />
                                 </mask>
                                 <path
                                   d="M4.09 14.976c-.276-1.514-.165-3.161.604-4.89 1.222-2.743 3.802-4.748 6.786-5.093a8.55 8.55 0 019.569 8.489c0 .574-.164 1.433-.301 2.05a.993.993 0 00.493 1.093c.466.249 1.093.619 1.62 1.044.533.43 1.353.203 1.56-.451.44-1.386.647-2.874.56-4.426C24.628 6.38 19.25 1.15 12.83.986 5.776.805-.001 6.469-.001 13.482c0 1.179.169 2.316.478 3.395.222.78 1.206.999 1.736.387.429-.493.94-.995 1.445-1.291.34-.2.502-.608.432-.997"
@@ -282,7 +282,7 @@ export const Navbar = () => {
                               </g>
                               <g transform="translate(4 12.019)">
                                 <mask id="dd" fill="#fff">
-                                  <use xlinkHref="#dc" />
+                                  <use xlinkto="#dc" />
                                 </mask>
                                 <path
                                   d="M16.282 6.287l-4.652-.876-1.917-4.329a.988.988 0 00-.915-.595.986.986 0 00-.877.521L5.65 5.162l-4.71.485a1 1 0 00-.624 1.681l3.249 3.443-.994 4.628a1.003 1.003 0 00.977 1.213c.14 0 .287-.03.429-.098l4.279-2.027 4.094 2.375a.988.988 0 00.5.138c.568 0 1.077-.495.994-1.13l-.605-4.695 3.524-3.16a1 1 0 00-.482-1.728"
@@ -302,7 +302,7 @@ export const Navbar = () => {
                             <g fill="none" fillRule="evenodd">
                               <g transform="translate(7 -.04)">
                                 <mask id="eb" fill="#fff">
-                                  <use xlinkHref="#ea" />
+                                  <use xlinkto="#ea" />
                                 </mask>
                                 <path
                                   d="M12.383.042a.492.492 0 00-.467.713 8.27 8.27 0 01.861 2.956c.02.218.174.39.388.435a8.546 8.546 0 016.68 9.688c-.543 3.59-3.422 6.51-7.005 7.097a8.539 8.539 0 01-8.53-3.665.525.525 0 00-.731-.158c-.597.403-1.403.93-2.555.847-.401-.03-.661.407-.462.756 2.194 3.823 6.341 6.38 11.087 6.287 6.511-.128 11.964-5.453 12.238-11.962C24.17 6.224 19 .559 12.383.042"
@@ -430,7 +430,7 @@ export const Navbar = () => {
                             <g fill="none" fillRule="evenodd">
                               <g transform="translate(12 14.458)">
                                 <mask id="ab" fill="#fff">
-                                  <use xlinkHref="#aa" />
+                                  <use xlinkto="#aa" />
                                 </mask>
                                 <path
                                   d="M7.555 2.645L1.218.19A.613.613 0 00.5.794v9.102c0 .299.216.554.51.604l6.545 2.492a.66.66 0 00.208 0l6.545-2.492a.613.613 0 00.51-.604V.794A.613.613 0 0014.1.19L7.763 2.645a.605.605 0 01-.208 0"
@@ -445,13 +445,13 @@ export const Navbar = () => {
                           </symbol>
                         </svg>
                         {/*[if lte IE 10]>
-    <a href="http://outdatedbrowser.com" class="browser-upgrade-notification" style="width: 100%; text-align: center; color: #FFF; background-color: #11434c; display: block;">
+    <a to="http://outdatedbrowser.com" className="browser-upgrade-notification" style="width: 100%; text-align: center; color: #FFF; background-color: #11434c; display: block;">
       <p style="font-size: .875em; color: #FFF; padding: 15px 0px; margin: 0px;">
-        <img class="browser-upgrade-notification__emoji"
+        <img className="browser-upgrade-notification__emoji"
               src="https://www.hubspot.com/hubfs/assets/hubspot.com/icons/Sad_Face_Emoji_large.png?t=1494954070529" alt=""
               style="max-height: 1.3em; position: relative; top: 4px; right: 3px;">
           Looks like your browser is stuck in the past. Update to the latest version for a better, faster, stronger (and safer) browsing experience.
-        <img class="browser-upgrade-notification__arrow"
+        <img className="browser-upgrade-notification__arrow"
               src="https://cdn2.hubspot.net/hubfs/53/assets/hubspot.com/icons/Arrow.png" style="position: relative; left: 0%;">
       </p>
     </a>
@@ -472,8 +472,8 @@ export const Navbar = () => {
                         data-w={12}
                       >
                         {/*[if lte IE 10]>
-    <a href="http://outdatedbrowser.com" class="browser-upgrade-notification" style="width: 100%; text-align: center; color: #FFF; background-color: #11434c; display: block;">
-        <p style="font-size: .875em; color: #FFF; padding: 15px 0px; margin: 0px;"><img class="browser-upgrade-notification__emoji" src="https://www.hubspot.com/hubfs/assets/hubspot.com/icons/Sad_Face_Emoji_large.png?t=1494954070529" alt="" style="max-height: 1.3em; position: relative; top: 4px; right: 3px;"> Looks like your browser is stuck in the past. Update to the latest version for a better, faster, stronger (and safer) browsing experience. <img class="browser-upgrade-notification__arrow" src="https://cdn2.hubspot.net/hubfs/53/assets/hubspot.com/icons/Arrow.png" style="position: relative; left: 0%;"></p>
+    <a to="http://outdatedbrowser.com" className="browser-upgrade-notification" style="width: 100%; text-align: center; color: #FFF; background-color: #11434c; display: block;">
+        <p style="font-size: .875em; color: #FFF; padding: 15px 0px; margin: 0px;"><img className="browser-upgrade-notification__emoji" src="https://www.hubspot.com/hubfs/assets/hubspot.com/icons/Sad_Face_Emoji_large.png?t=1494954070529" alt="" style="max-height: 1.3em; position: relative; top: 4px; right: 3px;"> Looks like your browser is stuck in the past. Update to the latest version for a better, faster, stronger (and safer) browsing experience. <img className="browser-upgrade-notification__arrow" src="https://cdn2.hubspot.net/hubfs/53/assets/hubspot.com/icons/Arrow.png" style="position: relative; left: 0%;"></p>
     </a>
     <![endif]*/}
                       </div>
@@ -557,7 +557,7 @@ export const Navbar = () => {
                                         role="none"
                                       >
                                         <a
-                                          href="javascript:;"
+                                          to="javascript:;"
                                           aria-haspopup="true"
                                           aria-expanded="false"
                                           role="menuitem"
@@ -572,7 +572,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/terms-of-service"
+                                              to="//legal.hubspot.com/terms-of-service"
                                               role="menuitem"
                                             >
                                               Master Terms
@@ -583,7 +583,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://legal.hubspot.com/product-specific-terms"
+                                              to="https://legal.hubspot.com/product-specific-terms"
                                               role="menuitem"
                                             >
                                               Product Specific Terms
@@ -594,7 +594,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://legal.hubspot.com/jurisdiction-specific-terms"
+                                              to="https://legal.hubspot.com/jurisdiction-specific-terms"
                                               role="menuitem"
                                             >
                                               Jurisdiction Specific Terms
@@ -605,7 +605,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/dpa"
+                                              to="//legal.hubspot.com/dpa"
                                               role="menuitem"
                                             >
                                               Data Processing Agreement
@@ -616,7 +616,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://legal.hubspot.com/hubspot-product-and-services-catalog"
+                                              to="https://legal.hubspot.com/hubspot-product-and-services-catalog"
                                               role="menuitem"
                                             >
                                               Product and Services Catalog
@@ -627,7 +627,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/acceptable-use"
+                                              to="//legal.hubspot.com/acceptable-use"
                                               role="menuitem"
                                             >
                                               Acceptable Use Policy
@@ -638,7 +638,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://www.hubspot.com/security"
+                                              to="https://www.hubspot.com/security"
                                               role="menuitem"
                                             >
                                               HubSpot Security Program
@@ -649,10 +649,10 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://legal.hubspot.com/content-moderation-hubspot"
+                                              to="https://legal.hubspot.com/content-moderation-hubspot"
                                               role="menuitem"
                                             >
-                                              Content Moderation @HubSpot
+                                              Moderation @HubSpot
                                             </a>
                                           </li>
                                         </ul>
@@ -662,7 +662,7 @@ export const Navbar = () => {
                                         role="none"
                                       >
                                         <a
-                                          href="javascript:;"
+                                          to="javascript:;"
                                           aria-haspopup="true"
                                           aria-expanded="false"
                                           role="menuitem"
@@ -677,7 +677,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://legal.hubspot.com/app-progam-agreement"
+                                              to="https://legal.hubspot.com/app-progam-agreement"
                                               role="menuitem"
                                             >
                                               App Partner Program Agreement
@@ -688,7 +688,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/solutions-partner-program-agreement"
+                                              to="//legal.hubspot.com/solutions-partner-program-agreement"
                                               role="menuitem"
                                             >
                                               Solutions Partner Program
@@ -700,7 +700,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://legal.hubspot.com/marketing-affiliate-program-agreement"
+                                              to="https://legal.hubspot.com/marketing-affiliate-program-agreement"
                                               role="menuitem"
                                             >
                                               Marketing Affiliate Program
@@ -712,7 +712,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/startups-partner-agreement"
+                                              to="//legal.hubspot.com/startups-partner-agreement"
                                               role="menuitem"
                                             >
                                               HubSpot for Startups Partner
@@ -724,7 +724,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/education-partner-agreement"
+                                              to="//legal.hubspot.com/education-partner-agreement"
                                               role="menuitem"
                                             >
                                               Education Partner Agreement
@@ -737,7 +737,7 @@ export const Navbar = () => {
                                         role="none"
                                       >
                                         <a
-                                          href="javascript:;"
+                                          to="javascript:;"
                                           aria-haspopup="true"
                                           aria-expanded="false"
                                           role="menuitem"
@@ -752,7 +752,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://legal.hubspot.com/hubspot-developer-terms"
+                                              to="https://legal.hubspot.com/hubspot-developer-terms"
                                               role="menuitem"
                                             >
                                               HubSpot Developer Terms
@@ -763,7 +763,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://legal.hubspot.com/hubspot-developer-policy"
+                                              to="https://legal.hubspot.com/hubspot-developer-policy"
                                               role="menuitem"
                                             >
                                               HubSpot Developer Policy
@@ -774,7 +774,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://legal.hubspot.com/acceptable-use"
+                                              to="https://legal.hubspot.com/acceptable-use"
                                               role="menuitem"
                                             >
                                               Acceptable Use Policy
@@ -787,7 +787,7 @@ export const Navbar = () => {
                                         role="none"
                                       >
                                         <a
-                                          href="javascript:;"
+                                          to="javascript:;"
                                           aria-haspopup="true"
                                           aria-expanded="false"
                                           role="menuitem"
@@ -802,7 +802,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/website-terms-of-use"
+                                              to="//legal.hubspot.com/website-terms-of-use"
                                               role="menuitem"
                                             >
                                               Website Terms of Use
@@ -813,7 +813,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/privacy-policy"
+                                              to="//legal.hubspot.com/privacy-policy"
                                               role="menuitem"
                                             >
                                               Privacy Policy
@@ -824,7 +824,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="https://legal.hubspot.com/cookie-policy"
+                                              to="https://legal.hubspot.com/cookie-policy"
                                               role="menuitem"
                                             >
                                               Cookie Policy
@@ -837,7 +837,7 @@ export const Navbar = () => {
                                         role="none"
                                       >
                                         <a
-                                          href="javascript:;"
+                                          to="javascript:;"
                                           aria-haspopup="true"
                                           aria-expanded="false"
                                           role="menuitem"
@@ -852,7 +852,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/community-tou"
+                                              to="//legal.hubspot.com/community-tou"
                                               role="menuitem"
                                             >
                                               Community Terms of Use
@@ -863,7 +863,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/directory-tou"
+                                              to="//legal.hubspot.com/directory-tou"
                                               role="menuitem"
                                             >
                                               Directory Terms of Use
@@ -874,7 +874,7 @@ export const Navbar = () => {
                                             role="none"
                                           >
                                             <a
-                                              href="//legal.hubspot.com/hug-program-agreement"
+                                              to="//legal.hubspot.com/hug-program-agreement"
                                               role="menuitem"
                                             >
                                               HUG Program Agreement
@@ -887,7 +887,7 @@ export const Navbar = () => {
                                         role="none"
                                       >
                                         <a
-                                          href="//legal.hubspot.com/legal-stuff"
+                                          to="//legal.hubspot.com/legal-stuff"
                                           role="menuitem"
                                         >
                                           Back to Legal Stuff home
@@ -997,7 +997,7 @@ export const Navbar = () => {
                                         "Information We Collect and Process When
                                         You Use the Subscription Service" and
                                         our{" "}
-                                        <a href="https://legal.hubspot.com/dpa">
+                                        <a to="https://legal.hubspot.com/dpa">
                                           <span>
                                             Customer Data Processing Agreement
                                           </span>
@@ -1018,7 +1018,7 @@ export const Navbar = () => {
                                         account. Terms not otherwise defined in
                                         this Privacy Policy will have the
                                         meaning as set forth in the{" "}
-                                        <a href="https://legal.hubspot.com/terms-of-service">
+                                        <a to="https://legal.hubspot.com/terms-of-service">
                                           <span>
                                             HubSpot Customer Terms of Service
                                           </span>
@@ -1038,7 +1038,7 @@ export const Navbar = () => {
                                         Privacy Policy or our treatment of your
                                         Personal Data, please use{" "}
                                         <a
-                                          href="https://preferences.hubspot.com/privacy"
+                                          to="https://preferences.hubspot.com/privacy"
                                           style={{ color: "#0091ae" }}
                                           rel="noopener"
                                         >
@@ -1053,7 +1053,7 @@ export const Navbar = () => {
                                         <li>
                                           <strong>
                                             <a
-                                              href="#What-Information-We-Collect-About-You"
+                                              to="#What-Information-We-Collect-About-You"
                                               rel=" noopener"
                                             >
                                               What Information We Collect About
@@ -1065,7 +1065,7 @@ export const Navbar = () => {
                                           <span>
                                             <strong>
                                               <a
-                                                href="#How-We-Use-Information-We-Collect"
+                                                to="#How-We-Use-Information-We-Collect"
                                                 rel="noopener"
                                               >
                                                 How We Use Your Information
@@ -1077,7 +1077,7 @@ export const Navbar = () => {
                                           <span>
                                             <strong>
                                               <a
-                                                href="#How-We-Share-Information-We-Collect"
+                                                to="#How-We-Share-Information-We-Collect"
                                                 rel=" noopener"
                                               >
                                                 {" "}
@@ -1091,7 +1091,7 @@ export const Navbar = () => {
                                           <span>
                                             <strong>
                                               <a
-                                                href="#How-We-Transfer-Data-We-Collect-Internationally"
+                                                to="#How-We-Transfer-Data-We-Collect-Internationally"
                                                 rel=" noopener"
                                               >
                                                 How We Transfer Information We
@@ -1102,7 +1102,7 @@ export const Navbar = () => {
                                         </li>
                                         <li>
                                           <a
-                                            href="#How-We-Store-and-Secure-Your-Information"
+                                            to="#How-We-Store-and-Secure-Your-Information"
                                             rel="noopener"
                                           >
                                             <span>
@@ -1117,7 +1117,7 @@ export const Navbar = () => {
                                           <span>
                                             <strong>
                                               <a
-                                                href="#Cookies-and-Similar-Technology"
+                                                to="#Cookies-and-Similar-Technology"
                                                 rel=" noopener"
                                               >
                                                 {" "}
@@ -1130,7 +1130,7 @@ export const Navbar = () => {
                                           <span>
                                             <strong>
                                               <a
-                                                href="#How-To-Access-and-Control-Your-Personal-Data"
+                                                to="#How-To-Access-and-Control-Your-Personal-Data"
                                                 rel=" noopener"
                                               >
                                                 {" "}
@@ -1142,7 +1142,7 @@ export const Navbar = () => {
                                         </li>
                                         <li>
                                           <a
-                                            href="#California-Privacy-Rights"
+                                            to="#California-Privacy-Rights"
                                             rel=" noopener"
                                           >
                                             <span>
@@ -1154,7 +1154,7 @@ export const Navbar = () => {
                                         </li>
                                         <li>
                                           <a
-                                            href="#Data-Protection-Officer"
+                                            to="#Data-Protection-Officer"
                                             rel=" noopener"
                                           >
                                             <span>
@@ -1166,7 +1166,7 @@ export const Navbar = () => {
                                         </li>
                                         <li>
                                           <a
-                                            href="#Other-Important-Privacy-Information"
+                                            to="#Other-Important-Privacy-Information"
                                             rel="noopener"
                                           >
                                             <span>
@@ -1232,7 +1232,7 @@ export const Navbar = () => {
                                       </p>
                                       <p>
                                         When you register for{" "}
-                                        <a href="https://www.inbound.com/register">
+                                        <a to="https://www.inbound.com/register">
                                           <span>INBOUND</span>
                                         </a>
                                         or a HubSpot event, we collect
@@ -1358,7 +1358,7 @@ export const Navbar = () => {
                                         third-party applications. For more
                                         information on integrations with third
                                         party providers, please see{" "}
-                                        <a href="https://knowledge.hubspot.com/integrations/connect-apps-to-hubspot">
+                                        <a to="https://knowledge.hubspot.com/integrations/connect-apps-to-hubspot">
                                           <span>here</span>
                                         </a>
                                         .
@@ -1371,7 +1371,7 @@ export const Navbar = () => {
                                         from your Gmail or Google account. You
                                         can learn more about how we access this
                                         data
-                                        <a href="https://knowledge.hubspot.com/email-tracking/connect-your-inbox-to-hubspot">
+                                        <a to="https://knowledge.hubspot.com/email-tracking/connect-your-inbox-to-hubspot">
                                           <span>here</span>
                                         </a>
                                         or via in-app notice when you connect to
@@ -1399,22 +1399,21 @@ export const Navbar = () => {
                                         Subscription Service will be able to
                                         read, modify, create, and send emails
                                         from your connected Gmail account. The
-                                        Subscription Service will scan the
-                                        content of your emails to identify which
-                                        emails you have elected to track in
-                                        order to provide you with the
-                                        notifications feature. The Subscription
-                                        Service will store replies, outgoing
-                                        mail, email headers, subject line,
-                                        distribution lists, aliases, time sent,
-                                        and email bodies. Your email may contain
-                                        sensitive information, such as names of
-                                        your contacts, your private
-                                        communications, or financial or medical
-                                        information. You understand that the
-                                        correspondences you track will be
-                                        visible to other users on your
-                                        Subscription team.
+                                        Subscription Service will scan the of
+                                        your emails to identify which emails you
+                                        have elected to track in order to
+                                        provide you with the notifications
+                                        feature. The Subscription Service will
+                                        store replies, outgoing mail, email
+                                        headers, subject line, distribution
+                                        lists, aliases, time sent, and email
+                                        bodies. Your email may contain sensitive
+                                        information, such as names of your
+                                        contacts, your private communications,
+                                        or financial or medical information. You
+                                        understand that the correspondences you
+                                        track will be visible to other users on
+                                        your Subscription team.
                                       </p>
                                       <p>
                                         If you connect your Gmail account via
@@ -1436,7 +1435,7 @@ export const Navbar = () => {
                                         app of information received from Google
                                         APIs will adhere to the{" "}
                                         <a
-                                          href="https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes"
+                                          to="https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes"
                                           rel="noopener"
                                         >
                                           Google API Services User Data Policy
@@ -1501,13 +1500,12 @@ export const Navbar = () => {
                                           }}
                                         />
                                         You can integrate your Google Search
-                                        Console with our Content Management
-                                        System (CMS). As part of this
-                                        integration, the Subscription Service
-                                        will be able to view and manage the list
-                                        of sites and domains you control and
-                                        view and manage the owners of domains
-                                        you control.
+                                        Console with our Management System
+                                        (CMS). As part of this integration, the
+                                        Subscription Service will be able to
+                                        view and manage the list of sites and
+                                        domains you control and view and manage
+                                        the owners of domains you control.
                                       </p>
                                       <p>Chrome Extensions</p>
                                       <ul>
@@ -1546,7 +1544,7 @@ export const Navbar = () => {
                                           is clicked, utilizing the permissions
                                           granted{" "}
                                           <a
-                                            href="https://developer.chrome.com/extensions/activeTab#motivation"
+                                            to="https://developer.chrome.com/extensions/activeTab#motivation"
                                             rel="noopener"
                                           >
                                             here
@@ -1573,7 +1571,7 @@ export const Navbar = () => {
                                         program and how we share data with our
                                         partners please see below and read about
                                         our co-marketing program&nbsp;{" "}
-                                        <a href="https://www.hubspot.com/co-marketing-request-form">
+                                        <a to="https://www.hubspot.com/co-marketing-request-form">
                                           <span>here</span>
                                         </a>
                                         .&nbsp;
@@ -1594,11 +1592,11 @@ export const Navbar = () => {
                                         operated by HubSpot (e.g. PieSync and
                                         The Hustle), in accordance with their
                                         terms and policies located{" "}
-                                        <a href="https://www.piesync.com/legal/privacy-policy/">
+                                        <a to="https://www.piesync.com/legal/privacy-policy/">
                                           <span>here</span>
                                         </a>
                                         and{" "}
-                                        <a href="https://thehustle.co/privacy/">
+                                        <a to="https://thehustle.co/privacy/">
                                           <span>here</span>
                                         </a>
                                         .&nbsp;
@@ -1616,8 +1614,8 @@ export const Navbar = () => {
                                         Personal Data such as first and last
                                         name, email address, physical address,
                                         phone number, or other information about
-                                        you. We do not control the content of
-                                        our customers' webpages or the types of
+                                        you. We do not control the of our
+                                        customers' webpages or the types of
                                         Personal Data that our customers may
                                         choose to collect or manage using the
                                         Subscription Service. We store our
@@ -1625,7 +1623,7 @@ export const Navbar = () => {
                                         providers' servers but process it as a
                                         processor under our customers’
                                         instructions and in accordance with our{" "}
-                                        <a href="https://legal.hubspot.com/terms-of-service">
+                                        <a to="https://legal.hubspot.com/terms-of-service">
                                           <span>Customer Terms of Service</span>
                                         </a>
                                         , which prohibit us from using the
@@ -1669,16 +1667,15 @@ export const Navbar = () => {
                                         products, services, and other offerings.
                                         For example, we use the information,
                                         like your email or physical address, to
-                                        send information or HubSpot content to
-                                        you which we think may be of interest to
-                                        you by post, email, or other means and
-                                        send you marketing communications
-                                        relating to our business. We use this
-                                        information to promote the use of our
-                                        services to you and share promotional
-                                        and information content with you in
-                                        accordance with your communication
-                                        preferences.&nbsp;
+                                        send information or HubSpot to you which
+                                        we think may be of interest to you by
+                                        post, email, or other means and send you
+                                        marketing communications relating to our
+                                        business. We use this information to
+                                        promote the use of our services to you
+                                        and share promotional and information
+                                        with you in accordance with your
+                                        communication preferences.&nbsp;
                                       </p>
                                       <p>
                                         We may also reach out to you via
@@ -1773,7 +1770,7 @@ export const Navbar = () => {
                                         to detect and prevent product abuse.
                                         This includes enforcing our{" "}
                                         <a
-                                          href="https://legal.hubspot.com/acceptable-use"
+                                          to="https://legal.hubspot.com/acceptable-use"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>Acceptable Use Policy</span>
@@ -1894,7 +1891,7 @@ export const Navbar = () => {
                                         Personal Data. HubSpot's Data Protection
                                         Officer can be contacted{" "}
                                         <a
-                                          href="https://preferences.hubspot.com/privacy"
+                                          to="https://preferences.hubspot.com/privacy"
                                           style={{ color: "#0091ae" }}
                                           rel="noopener"
                                         >
@@ -2011,7 +2008,7 @@ export const Navbar = () => {
                                         For more information on our co-marketing
                                         program, see{" "}
                                         <a
-                                          href="https://www.hubspot.com/co-marketing-request-form"
+                                          to="https://www.hubspot.com/co-marketing-request-form"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>this page</span>
@@ -2020,7 +2017,7 @@ export const Navbar = () => {
                                         Personal Data with these companies,
                                         please contact us{" "}
                                         <a
-                                          href="https://preferences.hubspot.com/privacy"
+                                          to="https://preferences.hubspot.com/privacy"
                                           style={{ color: "#0091ae" }}
                                           rel="noopener"
                                         >
@@ -2084,7 +2081,7 @@ export const Navbar = () => {
                                         HubSpot Affiliates where we have
                                         operations for the purposes described in
                                         this policy. Please see{" "}
-                                        <a href="https://legal.hubspot.com/dpa">
+                                        <a to="https://legal.hubspot.com/dpa">
                                           <span>Annex 4 of our DPA</span>
                                         </a>{" "}
                                         for a list of HubSpot Affiliates and
@@ -2114,7 +2111,7 @@ export const Navbar = () => {
                                         organizational measures), for more
                                         information please see{" "}
                                         <a
-                                          href="https://legal.hubspot.com/security"
+                                          to="https://legal.hubspot.com/security"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>here</span>
@@ -2192,7 +2189,7 @@ export const Navbar = () => {
                                         Principles, visit the U.S. Department of
                                         Commerce’s Privacy Shield List at
                                         <a
-                                          href="https://www.privacyshield.gov/"
+                                          to="https://www.privacyshield.gov/"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>
@@ -2206,7 +2203,7 @@ export const Navbar = () => {
                                         complaints related to our Privacy Shield
                                         compliance{" "}
                                         <a
-                                          href="https://preferences.hubspot.com/privacy"
+                                          to="https://preferences.hubspot.com/privacy"
                                           style={{ color: "#0091ae" }}
                                           rel="noopener"
                                         >
@@ -2218,7 +2215,7 @@ export const Navbar = () => {
                                         our U.S.-based third party dispute
                                         resolution provider (free of charge) at
                                         <a
-                                          href="https://feedback-form.truste.com/watchdog/request"
+                                          to="https://feedback-form.truste.com/watchdog/request"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>
@@ -2233,7 +2230,7 @@ export const Navbar = () => {
                                         Under certain conditions, more fully
                                         described on the{" "}
                                         <a
-                                          href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint"
+                                          to="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>Privacy Shield website</span>
@@ -2285,7 +2282,7 @@ export const Navbar = () => {
                                         organizational measures. For more on
                                         Security at HubSpot, please see{" "}
                                         <a
-                                          href="/security"
+                                          to="/security"
                                           style={{ color: "#0091ae" }}
                                           rel="noopener"
                                         >
@@ -2374,7 +2371,7 @@ export const Navbar = () => {
                                         pixels. For more information please
                                         refer to our{" "}
                                         <a
-                                          href="https://legal.hubspot.com/cookie-policy"
+                                          to="https://legal.hubspot.com/cookie-policy"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>Cookie Policy</span>
@@ -2394,7 +2391,7 @@ export const Navbar = () => {
                                         manage your cookie preferences please
                                         see our{" "}
                                         <a
-                                          href="https://legal.hubspot.com/cookie-policy"
+                                          to="https://legal.hubspot.com/cookie-policy"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>Cookie Policy</span>
@@ -2418,7 +2415,7 @@ export const Navbar = () => {
                                         serving you targeted ads, you may
                                         opt-out by using these services:{" "}
                                         <a
-                                          href="https://optout.networkadvertising.org/"
+                                          to="https://optout.networkadvertising.org/"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>
@@ -2427,7 +2424,7 @@ export const Navbar = () => {
                                         </a>
                                         or{" "}
                                         <a
-                                          href="https://optout.aboutads.info/"
+                                          to="https://optout.aboutads.info/"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>
@@ -2437,7 +2434,7 @@ export const Navbar = () => {
                                         (or if located in the European Union, by
                                         clicking here:{" "}
                                         <a
-                                          href="https://youronlinechoices.eu/"
+                                          to="https://youronlinechoices.eu/"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>
@@ -2508,7 +2505,7 @@ export const Navbar = () => {
                                           protection authorities in the EEA are
                                           available{" "}
                                           <a
-                                            href="https://edpb.europa.eu/about-edpb/about-edpb/members_en"
+                                            to="https://edpb.europa.eu/about-edpb/about-edpb/members_en"
                                             rel="noopener"
                                           >
                                             here)
@@ -2520,7 +2517,7 @@ export const Navbar = () => {
                                         To exercise any of these rights, please
                                         contact us{" "}
                                         <a
-                                          href="https://preferences.hubspot.com/privacy"
+                                          to="https://preferences.hubspot.com/privacy"
                                           style={{ color: "#0091ae" }}
                                           rel="noopener"
                                         >
@@ -2554,7 +2551,7 @@ export const Navbar = () => {
                                       <p>
                                         Our{" "}
                                         <a
-                                          href="//legal.hubspot.com/acceptable-use"
+                                          to="//legal.hubspot.com/acceptable-use"
                                           style={{ color: "#0091ae" }}
                                         >
                                           <span>Acceptable Use Policy</span>
@@ -2587,7 +2584,7 @@ export const Navbar = () => {
                                         communication preferences, or by
                                         contacting us{" "}
                                         <a
-                                          href="https://preferences.hubspot.com/privacy"
+                                          to="https://preferences.hubspot.com/privacy"
                                           style={{ color: "#0091ae" }}
                                           rel="noopener"
                                         >
@@ -2827,7 +2824,7 @@ export const Navbar = () => {
                                         access this notice in a different
                                         format, please contact us{" "}
                                         <a
-                                          href="https://preferences.hubspot.com/privacy"
+                                          to="https://preferences.hubspot.com/privacy"
                                           rel="noopener"
                                           target="_blank"
                                         >
@@ -2837,7 +2834,7 @@ export const Navbar = () => {
                                       </p>
                                       <p>Nicholas Knoop</p>
                                       <p>
-                                        <a href="https://privacyportal.onetrust.com/webform/9fd092df-0b2a-4194-89f1-820b83267af4/13da1ce4-8542-4d34-a84c-379495aa666c" />
+                                        <a to="https://privacyportal.onetrust.com/webform/9fd092df-0b2a-4194-89f1-820b83267af4/13da1ce4-8542-4d34-a84c-379495aa666c" />
                                         HubSpot, Inc.
                                         <br />
                                         25 First Street, 2nd Floor
@@ -2878,7 +2875,7 @@ export const Navbar = () => {
                                         Personal Data about a child under 16,
                                         please contact us{" "}
                                         <a
-                                          href="https://preferences.hubspot.com/privacy"
+                                          to="https://preferences.hubspot.com/privacy"
                                           style={{ color: "#0091ae" }}
                                           rel="noopener"
                                         >
@@ -2890,7 +2887,7 @@ export const Navbar = () => {
                                       <div>
                                         <a
                                           style={{ paddingRight: "1rem" }}
-                                          href="http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=558&sealid=112"
+                                          to="http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=558&sealid=112"
                                           target="_blank"
                                           rel="noopener noreferrer"
                                         >
@@ -2902,7 +2899,7 @@ export const Navbar = () => {
                                         </a>{" "}
                                         <a
                                           style={{ paddingRight: "1rem" }}
-                                          href="//privacy.truste.com/privacy-seal/validation?rid=4e05b698-973d-4ee9-9e6b-aeb564da8c24"
+                                          to="//privacy.truste.com/privacy-seal/validation?rid=4e05b698-973d-4ee9-9e6b-aeb564da8c24"
                                           target="_blank"
                                           rel="noopener noreferrer"
                                         >
@@ -2917,7 +2914,7 @@ export const Navbar = () => {
                                         </a>{" "}
                                         <a
                                           style={{ paddingRight: "1rem" }}
-                                          href="//privacy.truste.com/privacy-seal/validation?rid=5cc8e655-cfd8-4778-ba62-eba1e3e15777"
+                                          to="//privacy.truste.com/privacy-seal/validation?rid=5cc8e655-cfd8-4778-ba62-eba1e3e15777"
                                           target="_blank"
                                           rel="noopener noreferrer"
                                         >
@@ -2962,13 +2959,13 @@ export const Navbar = () => {
         {/*end body */}
       </div>
       {/*end body wrapper */}
-      <div className="footer-container-wrapper">{/*end row-wrapper */}</div>
+
       {/*end footer */}
       {/*end footer wrapper */}
       {/* Start of HubSpot Analytics Code */}
       {/* End of HubSpot Analytics Code */}
       {/*[if lt IE 9]>
-            <div style="position:absolute;top:42px;left:0;width:100%;padding:5px 0 5px  15px;color:#b94a48;background:#f2dede";font-size:14px;>You are using an outdated browser, we recommend you <a href="http://www.outdatedbrowser.com">upgrade your browser</a> for a better experience.</a></div>
+            <div style="position:absolute;top:42px;left:0;width:100%;padding:5px 0 5px  15px;color:#b94a48;background:#f2dede";font-size:14px;>You are using an outdated browser, we recommend you <a to="http://www.outdatedbrowser.com">upgrade your browser</a> for a better experience.</a></div>
     <![endif]*/}
       {/*  */}
       {/* Generated by the HubSpot Template Builder - template version 1.03 */}
