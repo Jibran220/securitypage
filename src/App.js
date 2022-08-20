@@ -1,10 +1,10 @@
 import "./App.css";
-import { Navbar } from "./com/Navbar";
+import { NH } from "./com/NH";
 
 function App() {
   return (
     <>
-      <Navbar />
+      <NH />
     </>
   );
 }
